@@ -1,4 +1,4 @@
-Pazar Commercial Insights
+Insights From Pazar
 This is a detailed analysis of Pazar's commercial performance for the period January 2023-March2024.
 
 View the interactive dashboard here:  
